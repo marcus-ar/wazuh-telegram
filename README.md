@@ -9,7 +9,7 @@ I hope it helps you too.
 
 1) Create File
 
-sudo vi /var/ossec/active-response/bin/wazuh-telegram.sh
+      sudo vi /var/ossec/active-response/bin/wazuh-telegram.sh
 
 2) Paste the Script - wazuh-telegram.sh
 
