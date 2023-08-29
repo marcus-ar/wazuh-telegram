@@ -11,14 +11,16 @@ I hope it helps you too.
 
       sudo vi /var/ossec/active-response/bin/wazuh-telegram.sh
 
-2) Paste the Script - wazuh-telegram.sh
+2) Paste the Script - wazuh-telegram.sh (Attachment)
 
 3) Set permissions
 
-chmod 750 /var/ossec/active-response/bin/wazuh-telegram.sh
-chown root:wazuh /var/ossec/active-response/bin/wazuh-telegram.sh
+      chmod 750 /var/ossec/active-response/bin/wazuh-telegram.sh
+      chown root:wazuh /var/ossec/active-response/bin/wazuh-telegram.sh
 
-4) Config Ossec.conf
+4) Config Ossec.conf (Attachment)
+
+Simple!
 
 
 
